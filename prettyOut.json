@@ -1,0 +1,294 @@
+{
+    "ageRating": null,
+    "alternativeName": "Ederly",
+    "backdrop": {
+        "previewUrl": null,
+        "url": null
+    },
+    "budget": {},
+    "countries": [
+        {
+            "name": "Польша"
+        }
+    ],
+    "deletedAt": null,
+    "description": "Эдерли — это город, который существует вне времени, на границе реального мира и сна. Может показаться, что он существует только для того, чтобы в него мог попасть главный герой — Слов. Город и его жители окружают героя. Соблазн поддаться и потерять свою идентичность очень велик. Нерешительность Слова беспокоит и в то же время развлекает. Кто победит в этой игре? И может ли кто-то в ней победить?",
+    "distributors": {
+        "distributor": null,
+        "distributorRelease": null
+    },
+    "enName": null,
+    "externalId": {
+        "imdb": "tt5172986",
+        "kpHD": null,
+        "tmdb": 420259
+    },
+    "facts": [],
+    "fees": {
+        "russia": {},
+        "usa": {},
+        "world": {}
+    },
+    "genres": [
+        {
+            "name": "драма"
+        },
+        {
+            "name": "комедия"
+        }
+    ],
+    "id": 945081,
+    "images": {
+        "backdropsCount": 5,
+        "framesCount": 0,
+        "postersCount": 1
+    },
+    "imagesInfo": {
+        "framesCount": 0
+    },
+    "isSeries": false,
+    "lists": [],
+    "logo": {
+        "previewUrl": null,
+        "url": null
+    },
+    "movieLength": 87,
+    "name": "Эдерли",
+    "names": [
+        {
+            "name": "Эдерли"
+        },
+        {
+            "name": "Ederly"
+        }
+    ],
+    "networks": null,
+    "persons": [
+        {
+            "enName": "Mariusz Bonaszewski",
+            "enProfession": "actor",
+            "id": 404049,
+            "name": "Мариуш Бонашевский",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_404049.jpg",
+            "profession": "актеры"
+        },
+        {
+            "enName": "Aleksandra Poplawska",
+            "enProfession": "actor",
+            "id": 1033657,
+            "name": "Александра Поплавска",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1033657.jpg",
+            "profession": "актеры"
+        },
+        {
+            "enName": "Helena Norowicz",
+            "enProfession": "actor",
+            "id": 899682,
+            "name": "Гелена Норович",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_899682.jpg",
+            "profession": "актеры"
+        },
+        {
+            "enName": "Piotr Skiba",
+            "enProfession": "actor",
+            "id": 496453,
+            "name": "Петр Скиба",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_496453.jpg",
+            "profession": "актеры"
+        },
+        {
+            "enName": "Wieslaw Cichy",
+            "enProfession": "actor",
+            "id": 486025,
+            "name": "Веслав Чихий",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_486025.jpg",
+            "profession": "актеры"
+        },
+        {
+            "enName": "Aleksandra Górska",
+            "enProfession": "actor",
+            "id": 245312,
+            "name": "Александра Гурская",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_245312.jpg",
+            "profession": "актеры"
+        },
+        {
+            "enName": "Janusz Chabior",
+            "enProfession": "actor",
+            "id": 397561,
+            "name": "Януш Хабёр",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_397561.jpg",
+            "profession": "актеры"
+        },
+        {
+            "enName": "Andrzej Szeremeta",
+            "enProfession": "actor",
+            "id": 393527,
+            "name": "Анджей Шеремета",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_393527.jpg",
+            "profession": "актеры"
+        },
+        {
+            "enName": "Gabriela Muskala",
+            "enProfession": "actor",
+            "id": 406602,
+            "name": "Габриэла Мускала",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_406602.jpg",
+            "profession": "актеры"
+        },
+        {
+            "enName": "Piotr Bajor",
+            "enProfession": "actor",
+            "id": 2990743,
+            "name": "Пётр Байор",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2990743.jpg",
+            "profession": "актеры"
+        },
+        {
+            "enName": "Jerzy Plazewski",
+            "enProfession": "actor",
+            "id": 3091040,
+            "name": null,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3091040.jpg",
+            "profession": "актеры"
+        },
+        {
+            "enName": "Selma Mutal",
+            "enProfession": "composer",
+            "id": 1305718,
+            "name": "Сельма Муталь",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1305718.jpg",
+            "profession": "композиторы"
+        },
+        {
+            "enName": "Piotr Dumala",
+            "enProfession": "director",
+            "id": 497382,
+            "name": "Петр Думала",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_497382.jpg",
+            "profession": "режиссеры"
+        },
+        {
+            "enName": "Adam Sikora",
+            "enProfession": "operator",
+            "id": 494843,
+            "name": "Адам Сикора",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_494843.jpg",
+            "profession": "операторы"
+        },
+        {
+            "enName": "Piotr Dumala",
+            "enProfession": "writer",
+            "id": 497382,
+            "name": "Петр Думала",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_497382.jpg",
+            "profession": "сценаристы"
+        },
+        {
+            "description": null,
+            "enName": "Bozena Krakówka",
+            "enProfession": "producer",
+            "id": 1476103,
+            "name": "Божена Кракувка",
+            "photo": "https://image.openmoviedb.com/kinopoisk-st-images//actor_iphone/iphone360_1476103.jpg",
+            "profession": "продюсеры"
+        },
+        {
+            "description": null,
+            "enName": "Andrzej Jedrzejewski",
+            "enProfession": "producer",
+            "id": 5032526,
+            "name": null,
+            "photo": "https://image.openmoviedb.com/kinopoisk-st-images//actor_iphone/iphone360_5032526.jpg",
+            "profession": "продюсеры"
+        },
+        {
+            "description": null,
+            "enName": "Marcin Kryjom",
+            "enProfession": "producer",
+            "id": 2561553,
+            "name": "Марчин Крём",
+            "photo": "https://image.openmoviedb.com/kinopoisk-st-images//actor_iphone/iphone360_2561553.jpg",
+            "profession": "продюсеры"
+        },
+        {
+            "description": null,
+            "enName": "Marek Rolka",
+            "enProfession": "producer",
+            "id": 7017443,
+            "name": null,
+            "photo": "https://image.openmoviedb.com/kinopoisk-st-images//actor_iphone/iphone360_7017443.jpg",
+            "profession": "продюсеры"
+        }
+    ],
+    "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1600647/1414e049-e41c-4792-9742-ea4bfa40c102/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1600647/1414e049-e41c-4792-9742-ea4bfa40c102/orig"
+    },
+    "premiere": {
+        "bluray": null,
+        "cinema": null,
+        "digital": null,
+        "dvd": null,
+        "russia": null,
+        "world": "2015-11-03T00:00:00.000Z"
+    },
+    "productionCompanies": [
+        {
+            "name": "D35",
+            "previewUrl": null,
+            "url": null
+        },
+        {
+            "name": "Heliograf",
+            "previewUrl": null,
+            "url": null
+        }
+    ],
+    "rating": {
+        "await": 0,
+        "filmCritics": 0,
+        "imdb": 6.7,
+        "kp": 0,
+        "russianFilmCritics": 0
+    },
+    "ratingMpaa": null,
+    "seasonsInfo": [],
+    "sequelsAndPrequels": [],
+    "seriesLength": null,
+    "shortDescription": null,
+    "similarMovies": [],
+    "slogan": null,
+    "spokenLanguages": [
+        {
+            "name": "Polski",
+            "nameEn": "Polish"
+        }
+    ],
+    "status": null,
+    "technology": {
+        "has3D": false,
+        "hasImax": false
+    },
+    "ticketsOnSale": false,
+    "top10": null,
+    "top250": null,
+    "totalSeriesLength": null,
+    "type": "movie",
+    "typeNumber": 1,
+    "updatedAt": "2024-07-09T08:53:30.757Z",
+    "videos": {
+        "trailers": []
+    },
+    "votes": {
+        "await": 0,
+        "filmCritics": 0,
+        "imdb": 91,
+        "kp": 95,
+        "russianFilmCritics": 0
+    },
+    "watchability": {
+        "items": []
+    },
+    "year": 2015
+}
